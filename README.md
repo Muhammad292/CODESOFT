@@ -1,4 +1,17 @@
 <h3>TASK 01</h3>
+<P>Welcome to the CODSOFT repository! This task houses a C++ program for a command-line calculator. This calculator program is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers.
+
+**Key Features:**
+- **User Interaction:** The program engages users in an interactive manner, allowing them to input two numbers and choose their desired arithmetic operation.
+- **Error Handling:** It includes error handling for division by zero, ensuring safe calculations.
+- **Menu System:** The program presents a menu system for easy operation selection.
+- **Clean Code:** The code is well-structured, neatly organized, and thoroughly documented for clarity and understanding.
+
+This calculator program serves as an educational project, demonstrating core C++ concepts, including classes, operator overloading, conditional statements, and user input handling.
+
+Feel free to explore the code, provide feedback, or use it as a reference for learning C++ programming and building interactive command-line applications.
+</P>
+<h3>TASK 02</h3>
 <P>This C++ program, titled "Number Guessing Game," is an interactive console-based game designed to test your guessing skills. The program offers three difficulty levels: Easy, Medium, and Hard, along with an option to exit the game.
 
 **Key Features:**
@@ -27,20 +40,6 @@
 5. Repeat the game or exit as desired.
 
 This program serves as an engaging exercise to practice C++ programming skills and logic while having fun with a classic guessing game. Enjoy your time playing and learning!
-</P>
-
-<h3>TASK 02</h3>
-<P>Welcome to the CODSOFT repository! This task houses a C++ program for a command-line calculator. This calculator program is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers.
-
-**Key Features:**
-- **User Interaction:** The program engages users in an interactive manner, allowing them to input two numbers and choose their desired arithmetic operation.
-- **Error Handling:** It includes error handling for division by zero, ensuring safe calculations.
-- **Menu System:** The program presents a menu system for easy operation selection.
-- **Clean Code:** The code is well-structured, neatly organized, and thoroughly documented for clarity and understanding.
-
-This calculator program serves as an educational project, demonstrating core C++ concepts, including classes, operator overloading, conditional statements, and user input handling.
-
-Feel free to explore the code, provide feedback, or use it as a reference for learning C++ programming and building interactive command-line applications.
 </P>
 
 <h3>TASK 03</h3>
